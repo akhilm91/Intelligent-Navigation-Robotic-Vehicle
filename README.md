@@ -19,3 +19,13 @@ Robotic Vehicle working Method:
 - Forward direction with obstacle in front and on the left. Vehicle to move back slightly (optional) and turn right and proceed to move forward thereafter. 
 - Forward direction with obstacle in front and on the right. Vehicle to move back slightly (optional) and turn left and proceed to move forward thereafter. 
 - Forward direction with obstacle in front, on the left and on the right. Vehicle to move back slightly and clear from all obstacles and rotate 180 degree and continue to move forward thereafter. The counter of the 7-segment during the forward path (up count) and reverse path (down count) will be counted. Upon reaching zero it will stop the vehicle.
+
+
+Assignment materials list as follow: 
+- Two stepper motors and driver circuit 
+- 3 proximity sensors – for front, left and right 
+- 1 optical sensor 
+- 7-segment LED 
+- 1 buzzer 
+- PIC18F4550 Microchip
+

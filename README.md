@@ -17,4 +17,5 @@ Robotic Vehicle working Method:
 - Forward direction with no obstacle. 
 - Forward direction with obstacle. Vehicle to move back and turn either left or right. 
 - Forward direction with obstacle in front and on the left. Vehicle to move back slightly (optional) and turn right and proceed to move forward thereafter. 
-- Forward direction with obstacle in front and on the right. Vehicle to move back slightly (optional) and turn left and proceed to move forward thereafter. Forward direction with obstacle in front, on the left and on the right. Vehicle to move back slightly and clear from all obstacles and rotate 180 degree and continue to move forward thereafter. The counter of the 7-segment during the forward path (up count) and reverse path (down count) will be counted. Upon reaching zero it will stop the vehicle.
+- Forward direction with obstacle in front and on the right. Vehicle to move back slightly (optional) and turn left and proceed to move forward thereafter. 
+- Forward direction with obstacle in front, on the left and on the right. Vehicle to move back slightly and clear from all obstacles and rotate 180 degree and continue to move forward thereafter. The counter of the 7-segment during the forward path (up count) and reverse path (down count) will be counted. Upon reaching zero it will stop the vehicle.
